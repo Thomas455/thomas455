@@ -1,5 +1,13 @@
 ## Hi there ，I'm thomas455👋
 
+My favourite agent：[![](https://img.shields.io/badge/deepseek-harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
+
+
+
+
+
+
+
 <!--
 **Thomas455/thomas455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
